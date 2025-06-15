@@ -15,24 +15,30 @@
 
 ### 🛠 Tech Stack
 
-**Frontend:** ReactJS, HTML, CSS, Tailwind CSS  
+**Frontend:** ReactJS, HTML, CSS, Tailwind CSS, jQuery  
 **Backend:** Java, .NET, Supabase, Streamlit  
 **Data & ML:** Python (Pandas, NumPy, Scikit-learn), SQL, OCR, Web Scraping  
 **Visualization:** Power BI, Tableau, Excel  
-**Tools:** Git, VS Code, Postman, Bright Data, MySQL, MongoDB
+**Tools:** Git, VS Code, Postman, MySQL, MongoDB, PostgreSQL
 
 ---
 
 ### 🚀 Projects
 
 - 🧠 **Learning Disabilities Detection App**  
-  Built a full-stack web app to detect Dyslexia and Dysgraphia using OCR and ML techniques. ReactJS frontend and Python/Streamlit backend deliver real-time results from handwriting samples.
+  Full-stack web app to detect Dyslexia and Dysgraphia using OCR and ML. Frontend built in ReactJS, backend in Python with Streamlit. Validated on 50+ handwriting samples.
 
 - 📈 **Sales Insight Dashboard**  
-  Designed a Power BI dashboard to analyze sales, profits, and trends across 20+ cities for a hardware company. Used MySQL, Power Query, and DAX for real-time performance insights.
+  Power BI dashboard to monitor sales and performance for a computer hardware company across 20+ cities. Data pulled from MySQL, transformed using Power Query, and modeled with DAX.
 
 - 🏏 **T20 World Cup Analytics**  
-  Scraped and analyzed player stats from ESPNcricinfo using Python. Created a Power BI dashboard to compare 100+ players and identify the best-performing XI based on KPIs.
+  Web scraped live player data from ESPNcricinfo. Used Python, Pandas, and Bright Data to generate Power BI dashboards comparing 100+ players based on KPIs.
+
+- ⏱️ **Google Chrome Extension (MY-Pioneer)**  
+  Built a productivity-focused Chrome extension for task tracking and time management. Included a smart to-do list, break timers, focus sessions, and performance analytics using JavaScript and jQuery.
+
+- 🏥 **Clinic Management System**  
+  Java desktop application with PostgreSQL backend to handle patient records, appointments, and staff management. Developed role-based access modules using Apache NetBeans and Java Swing.
 
 ---
 

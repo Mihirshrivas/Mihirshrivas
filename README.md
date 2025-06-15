@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-- 💻 Full Stack Developer | Data Science Enthusiast  
+- 💻 Full Stack Developer | Data Enthusiast  
 - 🌐 Experienced in React, TypeScript, Supabase, Python, .NET  
 - 📊 Passionate about data-driven decision-making and building scalable web applications  
 - 🧠 Exploring AI & Cloud technologies to create meaningful digital experiences  
@@ -15,33 +15,24 @@
 
 ### 🛠 Tech Stack
 
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
-**Backend:** .NET, Node.js, Supabase, Firebase  
-**Data:** Python (Pandas, NumPy, Scikit-learn), SQL, Power BI  
-**Tools:** Git, Docker, Postman, VS Code
+**Frontend:** ReactJS, HTML, CSS, Tailwind CSS  
+**Backend:** Java, .NET, Supabase, Streamlit  
+**Data & ML:** Python (Pandas, NumPy, Scikit-learn), SQL, OCR, Web Scraping  
+**Visualization:** Power BI, Tableau, Excel  
+**Tools:** Git, VS Code, Postman, Bright Data, MySQL, MongoDB
 
 ---
 
-### 🚀 Highlight Projects
+### 🚀 Projects
 
-- 🔗 [URL Shortener App](https://github.com/Mihirshrivas/shortly)  
-  Built with React, Supabase, Tailwind — secure and elegant link shortener.
+- 🧠 **Learning Disabilities Detection App**  
+  Built a full-stack web app to detect Dyslexia and Dysgraphia using OCR and ML techniques. ReactJS frontend and Python/Streamlit backend deliver real-time results from handwriting samples.
 
-- 📊 [Sales Insights Dashboard](https://github.com/Mihirshrivas/sales-insight)  
-  Power BI + MySQL project to visualize and analyze retail performance.
+- 📈 **Sales Insight Dashboard**  
+  Designed a Power BI dashboard to analyze sales, profits, and trends across 20+ cities for a hardware company. Used MySQL, Power Query, and DAX for real-time performance insights.
 
-- 📉 [Airbnb Review Analysis](https://github.com/Mihirshrivas/airbnb-sentiment)  
-  ML-driven sentiment analysis on Airbnb reviews using NLP.
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mihirshrivas&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mihirshrivas&theme=github-dark&hide_border=false" />
-</p>
+- 🏏 **T20 World Cup Analytics**  
+  Scraped and analyzed player stats from ESPNcricinfo using Python. Created a Power BI dashboard to compare 100+ players and identify the best-performing XI based on KPIs.
 
 ---
 
@@ -49,6 +40,6 @@
 
 - 📧 Email: mihirshrivas2002@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mihirshrivas/)  
-- 🧠 Always open to learning, collaboration, and solving real-world challenges!
+- 🧠 Open to collaboration, opportunities, and solving real-world challenges with data and code.
 
 ---

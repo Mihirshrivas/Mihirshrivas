@@ -5,8 +5,8 @@
 
 ### 👨‍💻 About Me
 
-- 💻 Full Stack Developer | Data Enthusiast  
-- 🌐 Experienced in React, TypeScript, Supabase, Python, .NET  
+- 💻 Full-Stack Developer & Data Analytics Enthusiast | Skilled in Scalable Web Systems & Insight-Driven Solutions 
+- 🌐 Experienced in React, TypeScript, Supabase, Python, .NET 
 - 📊 Passionate about data-driven decision-making and building scalable web applications  
 - 🧠 Exploring AI & Cloud technologies to create meaningful digital experiences  
 - 🎓 B.E. in Information Technology | University of Mumbai (CGPA: 9.01)

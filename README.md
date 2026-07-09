@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mihir Shrivas</h1>
-<h3 align="center">Full-Stack Engineer & Data Science Postgrad | Building Reliable ML-Powered Systems</h3>
+<h3 align="center"> Building Reliable ML-Powered Systems</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mihir-shrivas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Currently completing a **Master of Data Science** at Deakin University, Melbourne
-- 🛠 Full-stack engineer who builds end-to-end — frontend, backend, data model, and deployment
+- 🛠 Full-stack engineer who builds end-to-end frontend, backend, data model, and deployment
 - 🤖 Focused on applied ML/AI: LLM agent workflows, RAG, and prompt-engineered evaluation systems
 - 🩺 Drawn to problems where getting the system right actually matters to the people using it
 - 💼 Previously shipped production APIs for a live trading platform, and reviewed backend/security architecture as a technical contractor
@@ -66,4 +66,4 @@ Designed and implemented onboarding and market search APIs for a live trading pl
 - 💼 [LinkedIn](https://www.linkedin.com/in/mihir-shrivas/)
 - 🌐 [GitHub](https://github.com/Mihirshrivas)
 - 🤝 Open to full-stack, applied ML, and AI-focused engineering opportunities
-- 
+  

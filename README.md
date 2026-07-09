@@ -12,7 +12,7 @@ I like turning messy, half-formed problems into systems that actually work - esp
 
 Most recently I built an AI-assisted hackathon judging system from scratch - a FastAPI service that scores real submissions against weighted criteria using the OpenAI API, with every score backed by stored evidence so the reasoning is actually auditable. That's the kind of work I want to keep doing: systems where the output has to be correct and explainable, not just fast.
 
-**Currently open to:** data science, data/business analytics, and applied ML roles — anywhere the Master of Data Science I'm completing at Deakin actually gets used, not just listed on a resume.
+**Currently open to:** data science, data/business analytics, and applied ML roles - anywhere the Master of Data Science I'm completing at Deakin actually gets used, not just listed on a resume.
 
 ---
 

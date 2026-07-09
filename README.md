@@ -1,69 +1,43 @@
-<h1 align="center">Hi 👋, I'm Mihir Shrivas</h1>
-<h3 align="center"> Building Reliable ML-Powered Systems</h3>
+<h1 align="center">Mihir Shrivas</h1>
+<h3 align="center">currently doing a Master of Data Science in Melbourne</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mihir-shrivas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:mihirshrivas22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Melbourne-VIC%2C%20Australia-blue?style=flat"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+I like turning messy, half-formed problems into systems that actually work — especially where machine learning meets real engineering. I studied Information Technology in Mumbai, spent a year and a half building production features for a live trading platform and an ML-based handwriting analysis tool, and I'm now doing a Master of Data Science at Deakin while picking up contract engineering work on the side.
 
-- 🎓 Currently completing a **Master of Data Science** at Deakin University, Melbourne
-- 🛠 Full-stack engineer who builds end-to-end frontend, backend, data model, and deployment
-- 🤖 Focused on applied ML/AI: LLM agent workflows, RAG, and prompt-engineered evaluation systems
-- 🩺 Drawn to problems where getting the system right actually matters to the people using it
-- 💼 Previously shipped production APIs for a live trading platform, and reviewed backend/security architecture as a technical contractor
+Most recently I built an AI-assisted hackathon judging system from scratch — a FastAPI service that scores real submissions against weighted criteria using the OpenAI API, with every score backed by stored evidence so the reasoning is actually auditable. That's the kind of work I want to keep doing: systems where the output has to be correct and explainable, not just fast.
+
+**Currently open to:** full-stack, applied ML, data science, and analytics roles.
 
 ---
 
-### 🛠 Tech Stack
+### What I've built
 
-**Languages:** Python, SQL, JavaScript, TypeScript, R, C
+**Hackeroos AI Agent Judge**
+A hackathon evaluation system built for a live event — takes submissions via web form, JSON, or DevPost CSV export, and scores each one against five weighted criteria (relevance, originality, technical execution, design, feasibility) using the OpenAI API. Every score comes with written evidence, not just a number. Ran it against 42 real submissions from a live hackathon, then designed an A/B test plan (agent-only vs. human-only vs. human+agent) to validate the judging quality before the next event.
+`Python` · `FastAPI` · `OpenAI API`
 
-**Web & Frameworks:** React, Redux Toolkit, Node.js, FastAPI, Streamlit, REST APIs
+**Dyslexia & Dysgraphia Detection Platform**
+Detects indicators of dyslexia and dysgraphia from handwriting samples using OCR and computer vision. Streamlit backend, React frontend, built for actual use by educators and parents rather than as a lab demo — I ran structured testing sessions in schools and iterated on the model and interface based on what came back. Published at DOSCI, March 2024.
+`Python` · `ML` · `OCR` · `Streamlit` · `React`
 
-**AI & LLM Tools:** OpenAI API (GPT-4o), Claude API (Anthropic), LangChain, RAG, Prompt Engineering, FastAPI Agent Workflows, Cursor AI, GitHub Copilot
-
-**ML & Data Science:** Scikit-learn, Pandas, NumPy, XGBoost, LightGBM, Imbalanced-learn
-
-**Data & BI:** Power BI, MySQL, PostgreSQL, DAX, Power Query, Excel
-
-**DevOps & Tools:** Git, GitHub, Docker, Jenkins, Linux, VS Code, Jupyter Notebook
-
----
-
-### 🚀 Featured Projects
-
-**🧠 [Hackeroos AI Agent Judge](https://github.com/Mihirshrivas)**
-FastAPI-based hackathon evaluation system — accepts submissions via web form, JSON, or DevPost CSV, and scores each against five weighted criteria using the OpenAI API. Returns criterion-level scores, evidence, and written feedback, with every result stored as transparent JSON. Processed 42 real hackathon submissions; designed an evidence-based A/B test plan (agent-only vs. human-only vs. human+bot) to validate AI judging quality.
-`Python` `FastAPI` `OpenAI API` `JSON`
-
-**🧩 Dyslexia & Dysgraphia Detection Platform**
-ML-based system identifying dyslexia and dysgraphia indicators from handwriting samples using OCR and computer vision. Full-stack app (Streamlit backend, ReactJS frontend) built for educators, parents, and students. Tested directly in schools through structured user testing and published at the DOSCI Conference (March 2024).
-`Python` `ML` `OCR` `Streamlit` `ReactJS`
-
-**💹 Bullforce Trading App — Onboarding & Market Search**
-Designed and implemented onboarding and market search APIs for a live trading platform at Finoux Solution. Built responsive, data-driven interfaces that lifted customer engagement and retention by 15%, working cross-functionally to deliver scalable features for data-intensive workflows.
-`React` `TypeScript` `Redux Toolkit`
+**Bullforce Trading App — onboarding & market search**
+Built the onboarding and market search APIs for a live trading platform at Finoux Solution, plus the frontend that consumed them. Shipped interface changes based on usage data that lifted engagement and retention by 15%.
+`React` · `TypeScript` · `Redux Toolkit`
 
 ---
 
-### 🏆 Achievements
+### Tools I use regularly
 
-- 🥈 2nd Place — Hackscript Hackathon (FinTech Domain), Dec 2023
-- 🎓 B.E. Information Technology, University of Mumbai — CGPA 9.01/10.00
-- 📄 Published research at DOSCI Conference, March 2024
-- 🤖 GenAI Job Simulation, BCG X via Forage (Jun 2025) — built an AI-powered financial chatbot using Python and the OpenAI API
+Python, SQL, TypeScript/JavaScript · React, FastAPI, Node.js · OpenAI API, Claude API, LangChain, RAG · Scikit-learn, Pandas, NumPy, XGBoost · Power BI, PostgreSQL, MySQL · Git, Docker, Linux
 
 ---
 
-### 📫 Connect with Me
+A few other things: 2nd place at Hackscript (fintech track, Dec 2023), CGPA 9.01 in my undergrad, and I did BCG X's GenAI job simulation on Forage last year, building a financial chatbot with the OpenAI API.
 
-- 📧 [mihirshrivas22@gmail.com](mailto:mihirshrivas22@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/mihir-shrivas/)
-- 🌐 [GitHub](https://github.com/Mihirshrivas)
-- 🤝 Open to full-stack, applied ML, and AI-focused engineering opportunities
-  
+If you're working on something that involves real data, real users, and a reason to get it right — [get in touch](mailto:mihirshrivas22@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/mihir-shrivas/).

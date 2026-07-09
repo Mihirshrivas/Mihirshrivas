@@ -1,5 +1,5 @@
 <h1 align="center">Mihir Shrivas</h1>
-<h3 align="center">Full-Stack Engineer turning real-world data into systems people actually use</h3>
+<h3 align="center">Turning messy, real-world data into decisions people can act on</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mihir-shrivas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
@@ -12,7 +12,7 @@ I like turning messy, half-formed problems into systems that actually work — e
 
 Most recently I built an AI-assisted hackathon judging system from scratch — a FastAPI service that scores real submissions against weighted criteria using the OpenAI API, with every score backed by stored evidence so the reasoning is actually auditable. That's the kind of work I want to keep doing: systems where the output has to be correct and explainable, not just fast.
 
-**Currently open to:** full-stack engineering, data science, data/business analytics, and applied ML roles — anywhere the Master of Data Science I'm completing at Deakin actually gets used, not just listed on a resume.
+**Currently open to:** data science, data/business analytics, and applied ML roles — anywhere the Master of Data Science I'm completing at Deakin actually gets used, not just listed on a resume.
 
 ---
 

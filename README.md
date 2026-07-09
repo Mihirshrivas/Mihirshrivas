@@ -19,7 +19,7 @@ Most recently I built an AI-assisted hackathon judging system from scratch - a F
 ### What I've built
 
 **Hackeroos AI Agent Judge**
-A hackathon evaluation system built for a live event — takes submissions via web form, JSON, or DevPost CSV export, and scores each one against five weighted criteria (relevance, originality, technical execution, design, feasibility) using the OpenAI API. Every score comes with written evidence, not just a number. Ran it against 42 real submissions from a live hackathon, then designed an A/B test plan (agent-only vs. human-only vs. human+agent) to validate the judging quality before the next event.
+A hackathon evaluation system built for a live event - takes submissions via web form, JSON, or DevPost CSV export, and scores each one against five weighted criteria (relevance, originality, technical execution, design, feasibility) using the OpenAI API. Every score comes with written evidence, not just a number. Ran it against 42 real submissions from a live hackathon, then designed an A/B test plan (agent-only vs. human-only vs. human+agent) to validate the judging quality before the next event.
 `Python` · `FastAPI` · `OpenAI API`
 
 **Dyslexia & Dysgraphia Detection Platform**

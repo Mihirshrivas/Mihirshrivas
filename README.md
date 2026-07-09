@@ -8,9 +8,9 @@
 
 ---
 
-I like turning messy, half-formed problems into systems that actually work — especially where machine learning meets real engineering. I studied Information Technology in Mumbai, spent a year and a half building production features for a live trading platform and an ML-based handwriting analysis tool, and I'm now doing a Master of Data Science at Deakin while picking up contract engineering work on the side.
+I like turning messy, half-formed problems into systems that actually work - especially where machine learning meets real engineering. I studied Information Technology in Mumbai, spent a year and a half building production features for a live trading platform and an ML-based handwriting analysis tool, and I'm now doing a Master of Data Science at Deakin while picking up contract engineering work on the side.
 
-Most recently I built an AI-assisted hackathon judging system from scratch — a FastAPI service that scores real submissions against weighted criteria using the OpenAI API, with every score backed by stored evidence so the reasoning is actually auditable. That's the kind of work I want to keep doing: systems where the output has to be correct and explainable, not just fast.
+Most recently I built an AI-assisted hackathon judging system from scratch - a FastAPI service that scores real submissions against weighted criteria using the OpenAI API, with every score backed by stored evidence so the reasoning is actually auditable. That's the kind of work I want to keep doing: systems where the output has to be correct and explainable, not just fast.
 
 **Currently open to:** data science, data/business analytics, and applied ML roles — anywhere the Master of Data Science I'm completing at Deakin actually gets used, not just listed on a resume.
 
@@ -23,7 +23,7 @@ A hackathon evaluation system built for a live event — takes submissions via w
 `Python` · `FastAPI` · `OpenAI API`
 
 **Dyslexia & Dysgraphia Detection Platform**
-Detects indicators of dyslexia and dysgraphia from handwriting samples using OCR and computer vision. Streamlit backend, React frontend, built for actual use by educators and parents rather than as a lab demo — I ran structured testing sessions in schools and iterated on the model and interface based on what came back. Published at DOSCI, March 2024.
+Detects indicators of dyslexia and dysgraphia from handwriting samples using OCR and computer vision. Streamlit backend, React frontend, built for actual use by educators and parents rather than as a lab demo - I ran structured testing sessions in schools and iterated on the model and interface based on what came back. Published at DOSCI, March 2024.
 `Python` · `ML` · `OCR` · `Streamlit` · `React`
 
 **Bullforce Trading App — onboarding & market search**

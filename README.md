@@ -26,7 +26,7 @@ A hackathon evaluation system built for a live event - takes submissions via web
 Detects indicators of dyslexia and dysgraphia from handwriting samples using OCR and computer vision. Streamlit backend, React frontend, built for actual use by educators and parents rather than as a lab demo - I ran structured testing sessions in schools and iterated on the model and interface based on what came back. Published at DOSCI, March 2024.
 `Python` · `ML` · `OCR` · `Streamlit` · `React`
 
-**Bullforce Trading App — onboarding & market search**
+**Bullforce Trading App - onboarding & market search**
 Built the onboarding and market search APIs for a live trading platform at Finoux Solution, plus the frontend that consumed them. Shipped interface changes based on usage data that lifted engagement and retention by 15%.
 `React` · `TypeScript` · `Redux Toolkit`
 
